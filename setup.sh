@@ -13,5 +13,6 @@ if [ ! -d "$NVM_DIR" ]; then
 fi
 
 # Install Node.js version 21
-nvm install 18
-nvm use 18
+nvm install 21
+nvm use 21
+
