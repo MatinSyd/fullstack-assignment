@@ -90,7 +90,7 @@ DATABASES = {
         'NAME': 'fullstack',  
         'USER': 'fullstack',  
         'PASSWORD': 'fullstack',  
-        'HOST': 'db',  
+        'HOST': 'localhost',  
         'PORT': '5432',  
     }
 }
